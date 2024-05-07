@@ -46,6 +46,8 @@ The used Anaconda environment can also be installed using the file ``environemnt
 
 
 ## Funding
-
+Partial support recieved from the European Commission (projects H2020-871042 ``SoBigData++'' 
+and H2020-101006879 ``MobiDataLab''), the Spanish Government (project  PID2021-123637NB-I00, ``CURLING''), and
+the Government of Catalonia (ICREA Acad\`emia Prize and grant 2021 SGR 00115). 
 
 
