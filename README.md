@@ -25,7 +25,7 @@ The three used datasets (found in the data folder) are publicly available.
 - **Scikit-learn**: 1.3.0
 - **XGBoost**: 2.0.2
 
-
+The used Anaconda environment can also be installed using the file ``environemnt.ymal''.
 
 ## Main results
 
