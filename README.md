@@ -1,6 +1,6 @@
 
 # EUPG: Efficient Unlearning with Privacy Guarantees
-The official code to replicate the results found in ''EUPG: Efficient Unlearning with Privacy Guarantees''.
+The official code to replicate the results found in ``EUPG: Efficient Unlearning with Privacy Guarantees''.
 
 ## Paper 
 
