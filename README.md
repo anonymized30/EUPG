@@ -10,8 +10,8 @@ The official code to replicate the results found in ''EUPG: Efficient Unlearning
 The repository contains one jupyter notebook for each benchmark which can be used to re-produce the experiments reported in the paper for that benchmark. The notebooks contain clear instructions on how to run the experiments. 
 
 ## Data sets
-
-
+The three used datasets (found in the data folder) are publicly available.
+[Adult income](https://archive.ics.uci.edu/ml/datasets/Adult), [Heart disease](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset), and [Credit information](https://www.kaggle.com/c/GiveMeSomeCredit).
 
 ## Dependencies
 
@@ -27,6 +27,8 @@ The repository contains one jupyter notebook for each benchmark which can be use
 ### Before unlearning
 
 
+*The table below shows EUPG performance when before unlearning.* </br></br>
+<img src="figures/main_results.PNG" width="100%">
 
 
 
