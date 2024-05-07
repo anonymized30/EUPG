@@ -28,13 +28,14 @@ The three used datasets (found in the data folder) are publicly available.
 
 
 *The table below shows EUPG performance when before unlearning.* </br></br>
-<img src="figures/main_results.PNG" width="100%">
+<img src="figures/before_ul.PNG" width="100%">
 
 
 
 ### After unlearning
 
-
+*The table below shows pot-unlearning performance of EUPG when forgetting 5% of the training data.* </br></br>
+<img src="figures/after_ul.PNG" width="100%">
 
 
 ## Citation 
