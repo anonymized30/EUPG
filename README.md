@@ -15,11 +15,20 @@ The three used datasets (found in the data folder) are publicly available.
 
 ## Dependencies
 
-[Python 3.6](https://www.anaconda.com/download)
+- **Python**: 3.8.16
+- **TensorFlow**: 2.13.0
+- **Torch**: 1.12.0
+- **Torchvision**: 0.13.0
+- **NumPy**: 1.24.3
+- **Pandas**: 1.5.3
+- **SciPy**: 1.10.1
+- **Scikit-learn**: 1.3.0
+- **XGBoost**: 2.0.2
 
-[PyTorch 1.6](https://pytorch.org/)
 
-[TensorFlow 2](https://www.tensorflow.org/)
+[PyTorch 1.6]
+
+[TensorFlow 2]
 
 
 ## Main results
