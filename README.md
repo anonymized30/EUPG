@@ -26,10 +26,6 @@ The three used datasets (found in the data folder) are publicly available.
 - **XGBoost**: 2.0.2
 
 
-[PyTorch 1.6]
-
-[TensorFlow 2]
-
 
 ## Main results
 
