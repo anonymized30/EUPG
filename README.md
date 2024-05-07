@@ -1,16 +1,21 @@
-
 # EUPG: Efficient Unlearning with Privacy Guarantees
-The official code to replicate the results found in ``EUPG: Efficient Unlearning with Privacy Guarantees''.
 
-## Paper 
+This is the official repository containing the code needed to replicate the results from "EUPG: Efficient Unlearning with Privacy Guarantees."
+
+## Paper
 
 [EUPG: Efficient Unlearning with Privacy Guarantees]()
 
 ## Usage
-The repository contains one jupyter notebook for each benchmark which can be used to re-produce the experiments reported in the paper for that benchmark. 
-## Data sets
-The three used datasets (found in the data folder) are publicly available.
-[Adult income](https://archive.ics.uci.edu/ml/datasets/Adult), [Heart disease](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset), and [Credit information](https://www.kaggle.com/c/GiveMeSomeCredit).
+
+The repository includes a Jupyter notebook for each benchmark. These notebooks can be used to reproduce the experiments reported in the paper for their respective benchmarks.
+
+## Datasets
+
+The three datasets used are publicly available and located in the data folder:
+- [Adult Income](https://archive.ics.uci.edu/ml/datasets/Adult)
+- [Heart Disease](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset)
+- [Credit Information](https://www.kaggle.com/c/GiveMeSomeCredit)
 
 ## Dependencies
 
@@ -24,30 +29,24 @@ The three used datasets (found in the data folder) are publicly available.
 - **Scikit-learn**: 1.3.0
 - **XGBoost**: 2.0.2
 
-The used Anaconda environment can also be installed using the file ``environemnt.yml''.
+The required Anaconda environment can be installed using the `environment.yml` file.
 
-## Main results
+## Main Results
 
-### Before unlearning
+### Before Unlearning
 
+*The table below shows the performance of EUPG before unlearning.*  
+![EUPG performance before unlearning](figures/before_ul.png)
 
-*The table below shows EUPG performance when before unlearning.* </br></br>
-<img src="figures/before_ul.png" width="100%">
+### After Unlearning
 
+*The table below shows the post-unlearning performance of EUPG after forgetting 5% of the training data.*  
+![EUPG performance after unlearning](figures/after_ul.png)
 
+## Citation
 
-### After unlearning
-
-*The table below shows pot-unlearning performance of EUPG when forgetting 5% of the training data.* </br></br>
-<img src="figures/after_ul.png" width="100%">
-
-
-## Citation 
-
+*Information to be added*
 
 ## Funding
-Partial support recieved from the European Commission (projects H2020-871042 ``SoBigData++'' 
-and H2020-101006879 ``MobiDataLab''), the Spanish Government (project  PID2021-123637NB-I00, ``CURLING''), and
-the Government of Catalonia (ICREA Acad\`emia Prize and grant 2021 SGR 00115). 
 
-
+Partial support received from the European Commission (projects H2020-871042 "SoBigData++" and H2020-101006879 "MobiDataLab"), the Spanish Government (project PID2021-123637NB-I00, "CURLING"), and the Government of Catalonia (ICREA Acadèmia Prize and grant 2021 SGR 00115).
