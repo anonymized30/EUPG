@@ -49,4 +49,3 @@ The required Anaconda environment can be installed using the `environment.yml` f
 
 ## Funding
 
-Partial support received from the European Commission (projects H2020-871042 "SoBigData++" and H2020-101006879 "MobiDataLab"), the Spanish Government (project PID2021-123637NB-I00, "CURLING"), and the Government of Catalonia (ICREA Acadèmia Prize and grant 2021 SGR 00115).
