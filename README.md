@@ -49,3 +49,5 @@ The required Anaconda environment can be installed using the `environment.yml` f
 
 ## Funding
 
+*Information to be added*
+
