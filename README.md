@@ -36,13 +36,13 @@ The required Anaconda environment can be installed using the `environment.yml` f
 
 ### Before Unlearning
 
-*The table below shows the performance of EUPG before forgetting.*  
-![EUPG performance before unlearning](figures/before_ul.png)
+*The tables below show the performance of EUPG before forgetting.*  
+![EUPG performance before unlearning](figures/before.png)
 
 ### After Unlearning
 
-*The table below shows the post-unlearning performance of EUPG after forgetting 5% of the training data.*  
-![EUPG performance after unlearning](figures/after_ul.png)
+*The tables below show the post-unlearning performance of EUPG after forgetting 5% of the training data.*  
+![EUPG performance after unlearning](figures/after.png)
 
 ## Citation
 
