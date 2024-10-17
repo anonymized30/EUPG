@@ -12,10 +12,11 @@ The repository includes a Jupyter notebook for each benchmark. These notebooks c
 
 ## Datasets
 
-The three datasets used are publicly available and located in the data folder:
+The four datasets used are publicly available( the three tabular datasets are located in the data folder):
 - [Adult Income](https://archive.ics.uci.edu/ml/datasets/Adult)
 - [Heart Disease](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset)
 - [Credit Information](https://www.kaggle.com/c/GiveMeSomeCredit)
+- [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html) will automatically be downloaded from Torchvision datasets.
 
 ## Dependencies
 
